@@ -5,7 +5,7 @@ Projeto de jogos simples para me familiarizar com Python feito nos cursos da Alu
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Jogos**
-| :label: Tecnologias | Python)
+| :label: Tecnologias | Python
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](https://i.imgur.com/4Ly85p6.png#vitrinedev)
