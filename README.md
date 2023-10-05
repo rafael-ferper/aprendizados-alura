@@ -26,4 +26,4 @@ Código do jogo de adivinhação de número.
 
 Código do jogo de forca.
 
-O próximo passo agora é terminar o curso 
+O próximo passo agora é terminar o curso "Python: Entendendo a Orientação a Objeto" para me especializar ainda mais na linguagem e partir para os caminhos de WEB e quem sabe IA.
